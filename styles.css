@@ -1,0 +1,19 @@
+html {
+    background-color: rgb(203, 68, 203);
+}
+
+p {
+    color:white;
+    text-align:center;
+    text-decoration-line:underline;
+    text-decoration-style: wavy;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
